@@ -14,4 +14,4 @@ dir: images
 
 * access
 
-http://localhost:8080/<size>/myimages/<folder>/<imagename>
+`http://localhost:8080/<size>/myimages/<folder>/<imagename>`
